@@ -1,0 +1,5 @@
+notes.txt
+.vscode
+.vscode/
+*.exe
+*.class
